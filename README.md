@@ -10,7 +10,7 @@ Incluye múltiples herramientas útiles para manipular documentos:
 -  **Agregar o quitar contraseñas** a PDFs  
 -  **Eliminar páginas** específicas  
 -  **Extraer páginas** de un archivo PDF  
--  **Leer y modificar metadatos**  
+-  **Leer  metadatos**  
 -  **Combinar varios PDFs** en uno solo  
 - Interfaz gráfica construida con **Flet**
 
