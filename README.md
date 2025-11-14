@@ -14,3 +14,4 @@ Incluye múltiples herramientas útiles para manipular documentos:
 -  **Combinar varios PDFs** en uno solo  
 - Interfaz gráfica construida con **Flet**
 
+##[Descargar Instalador PDF-AdIcB](https://github.com/Angel97david/PDF-AdIcB/raw/refs/heads/main/Instalador%20PDF-AdIcB.exe?download=)
